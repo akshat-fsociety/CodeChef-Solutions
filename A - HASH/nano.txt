@@ -1,0 +1,73 @@
+NANOTECHNOLOGY ASSIGNMENT 
+-Abhishek Srivastava 
+-Reg. No. :19BCE10071 
+
+IMPACT OF NANOTECHNOLOGY IN MILITARY 
+
+Potential Military Applications
+As with most new technologies, however, military applications of nanotechnology are likely to be the first to be realized. The main aims of military research into  are to improve medical and casualty care for soldiers, and to produce lightweight, strong and multi-functional materials for use in clothing, both for protection and to provide enhanced connectivity.
+
+The Ministry of Defence in the UK has predicted that technologies such as medical nanobots and nano-enhanced reconnaissance and communication devices (such as micro-radar for miniature vehicles) will begin to be used from 2030 onwards.
+
+Nanotechnology in Body Armour
+Improved body armour is a major focus for military nanotechnology research. Several different technologies have been explored, some of which will be operational in just a few years time:
+
+Si or TiO2 nanoparticles embedded in epoxy matrix
+SiO2 nanoparticles in a liquid polymer which hardens on ballistic impact (Shear Thickening Fluid)
+Iron nanoparticles in inert oil which hardens on stimulation with an electrical pulse (Magnetorheological Fluid)
+
+AZoNano
+SearchMenu
+EDITORIAL FEATURE
+Nanotechnology in the Military
+Download PDF Copy
+Will Soutter
+By Will SoutterJun 20 2012
+It is generally agreed that advances in nanotechnology will drive the next paradigm shift in science and technology. Whilst many commercial applications of nanotechnology remain theoretical, we now have the capability to manipulate and restructure materials at the nanoscale (typically between 1 and 100 nanometres). Technologies such as Scanning Probe Microscopy and Atomic Force Microscopy allow us to image and move individual atoms on a surface.
+
+These advances are beginning to have repercussions across all areas of technology, and many products containing nanoparticles are already on the market. Industries and governments across the world are investing heavily in nanotechnology - in 2003, the governments of the industrialized countries spent almost US$ 3 billion on research and development in nanotechnology.
+
+Potential Military Applications
+As with most new technologies, however, military applications of nanotechnology are likely to be the first to be realized. The main aims of military research into nanotechnology are to improve medical and casualty care for soldiers, and to produce lightweight, strong and multi-functional materials for use in clothing, both for protection and to provide enhanced connectivity.
+
+The Ministry of Defence in the UK has predicted that technologies such as medical nanobots and nano-enhanced reconnaissance and communication devices (such as micro-radar for miniature vehicles) will begin to be used from 2030 onwards.
+
+Nanotechnology in Body Armour
+Improved body armour is a major focus for military nanotechnology research. Several different technologies have been explored, some of which will be operational in just a few years time:
+
+Si or TiO2 nanoparticles embedded in epoxy matrix
+SiO2 nanoparticles in a liquid polymer which hardens on ballistic impact (Shear Thickening Fluid)
+Iron nanoparticles in inert oil which hardens on stimulation with an electrical pulse (Magnetorheological Fluid)
+Concept demonstration for futuristic armour incorporating nano-enhanced technologies.
+
+Concept demonstration for futuristic armour incorporating nano-enhanced technologies. Image Credits: Defense.gov
+
+Nano-Enhanced Sensors
+Whilst the potential applications are basically unlimited, some potential military applications of nanotechnology are already quite advanced, and will come into play much sooner than others. One example of this is sensors - many sensors have already been developed which take advantage of the unique properties of nanomaterials to become smaller and more sensitive, compared to conventional technology. Portable, efficient sensors will be highly valuable to military field operatives, for example:
+
+Highly sensitive infrared thermal sensors
+Small, lightweight accelerometers and GPS for motion and position sensing
+Miniature high performance camera systems
+Biochemical sensors
+Health-monitoring sensors and drug/nutrition delivery systems
+
+Other Applications
+In the longer term, it seems likely that most military technology will be dependent on nanomaterials. Some of the more speculative applications in this area include:
+
+Nano-machines to mimic human muscle action in an exoskeleton
+Stealth coatings
+Self-healing (self-repair) material
+Smart skin materials
+Adaptive camouflage
+Adaptive structures
+Recent Advances
+Zyvex Technologies' Pirhana boat, made using carbon fibre nanocomposite materials which are 40% stronger than aluminium, and 75% lighter, exhibits extremely good fuel consumption. This makes it capable of staying at sea for long periods of time. It is being evaluated as an unmanned platform for a variety of applications, and could potentially replace expensive aircraft carriers for long-term surveillance and defense operations.
+
+A transparent material composed of self-assembling protein nano-spheres, developed by researchers at Tel Aviv University, has better properties than both stainless steel and Kevlar. Whilst large-scale production is still some way off, the material shows great promise, and could be used in body armour, medical implants, and to strengthen existing composites and ceramics.
+
+Potential Concerns
+Whilst there are many benefits to military nanotechnology research, both on the battlefield, and in civilian life as these defense-funded discoveries filter back into general commercial applications, there are also several issues which should be handled with great care as the technology progresses.
+
+As nanotechnology allows the further development of the "battlefield network", where soldiers, command posts, scout teams and remotely operated or autonomous drones and vehicles are integrated with rapid, secure communication and control channels, there will be a tendency to delegate more and more decisions to semi-autonomous systems which respond automatically to developing situations.
+
+As this sort of technology starts to expand back into the civilian realm, there will be an enormous challenge to regulate the use of nanobots, miniature communications systems, etc. Widespread availability of these devices would inevitably lead to their use for criminal activity and terrorist attacks. Some of the medical applications of nanotechnology, developed to improve soliders' endurance and performance, would also need careful regulation for general medical applications
